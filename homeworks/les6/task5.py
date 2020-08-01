@@ -3,7 +3,7 @@ class Stationary:
         self.title = title
 
     def draw(self):
-        return 'ЗАпуск отрисовки ' + self.title
+        return 'Запуск отрисовки ' + self.title
 
 
 class Pen(Stationary):
